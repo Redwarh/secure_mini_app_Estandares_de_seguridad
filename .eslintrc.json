@@ -1,0 +1,18 @@
+{
+  "root": true,
+  "parserOptions": {
+    "project": ["./tsconfig.json"],
+    "sourceType": "module"
+  },
+  "extends": [
+    "plugin:n/recommended",
+    "plugin:promise/recommended"
+  ],
+  "env": {
+    "node": true,
+    "es2023": true
+  },
+  "rules": {
+    "promise/always-return": "off"
+  }
+}
