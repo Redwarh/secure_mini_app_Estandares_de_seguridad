@@ -50,4 +50,4 @@ Workflow en `.github/workflows/ci.yml`:
 Crontab en `backups/crontab`. Puedes montar un contenedor cron personalizado o usar tu host.
 
 ## 7. Despliegue manual (servidor pruebas)
-Ver guía detallada en la entrega del chat.
+Ver guía detallada adjunta.
